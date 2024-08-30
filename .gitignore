@@ -1,0 +1,6 @@
+*.docx
+class_labels.json
+classes.npy
+*.rar
+venv/
+.ipynb_checkpoints
